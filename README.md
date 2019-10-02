@@ -1,2 +1,2 @@
-# css3-hover
-css3hover效果
+# css3-hover（css3hover效果）
+
